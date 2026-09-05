@@ -1,12 +1,12 @@
 # Systems Engineering & Automation
 
-A professional portfolio showcasing practical work and learning in
-Linux and Windows systems administration, automation, scripting,
+A professional portfolio showcasing practical work and continuous learning
+in Linux and Windows systems administration, scripting, automation,
 infrastructure management, and troubleshooting.
 
 ---
 
-## 🧑‍💻 Areas of Focus
+## 👨‍💻 Areas of Focus
 
 - Linux Systems Administration
 - Windows Systems Administration
@@ -17,56 +17,55 @@ infrastructure management, and troubleshooting.
 - Linux Networking
 - Storage & Filesystems
 - System Troubleshooting
-- System Deployment & Configuration
-- Git & GitHub
 - Infrastructure Automation
+- Git & GitHub
 
 ---
 
 ## 🐧 Linux Administration
 
-Working across:
+Working with:
 
-- Red Hat Enterprise Linux (RHEL)
+- RHEL
 - Rocky Linux
 - AlmaLinux
 - CentOS Stream
 - Ubuntu
 - Debian
 
-Key areas include:
+Key areas:
 
-- User and group management
-- File permissions and ACLs
+- User and group administration
+- Permissions and ACLs
 - SELinux
 - Systemd and services
 - Package management
 - Filesystems and mounts
 - LVM
 - NFS and AutoFS
-- Disk and storage administration
-- Networking and firewall management
+- Storage administration
+- Networking and firewalls
 - SSH
 - Kernel management
 - Log management
-- System troubleshooting
 - Backup and synchronization
-- System cleanup and maintenance
+- System maintenance and troubleshooting
 
 ---
 
 ## 🪟 Windows Administration
 
-Key areas include:
+Key areas:
 
 - Windows 10
 - Windows 11
 - Windows Server
-- PowerShell administration
+- PowerShell
+- System administration
 - System information and health checks
+- Software deployment
 - Windows networking
 - Troubleshooting
-- Software deployment
 - Administration automation
 
 ---
@@ -75,98 +74,127 @@ Key areas include:
 
 ### Bash
 
-Used for Linux administration and automation tasks such as:
+Linux administration and automation including:
 
 - System information
 - Health checks
 - Maintenance
-- Administration workflows
+- Disk and filesystem operations
 - Troubleshooting
-- Repetitive task automation
+- Repetitive administration tasks
 
 ### PowerShell
 
-Used for Windows administration and automation including:
+Windows administration and automation including:
 
-- System checks
-- Windows administration
-- Hardware and software information
+- System information
+- Health checks
 - Configuration
+- Software management
 - Troubleshooting
-- Automation
+- Administration tasks
 
 ### Ansible
 
-Learning and applying Ansible for:
+Automation areas include:
 
 - Configuration management
-- Server administration
+- Multi-server administration
 - Software deployment
 - NFS and AutoFS configuration
+- System configuration
 - Repetitive administration tasks
-- Multi-server automation
+
+---
+
+## 🛠️ Projects & Capabilities
+
+### Linux System Administration
+Practical administration, maintenance, troubleshooting,
+storage, networking, SSH and system configuration.
+
+### Windows Administration
+PowerShell-based administration, system analysis,
+configuration and automation.
+
+### Infrastructure Automation
+Automating repeatable administration and configuration
+tasks using Ansible.
+
+### Backup & Synchronization
+Backup workflows, file synchronization and validation
+using tools such as rsync.
+
+### Networking & Troubleshooting
+TCP/IP, DNS, ports, services, firewall concepts,
+connectivity testing and troubleshooting.
+
+### System Deployment
+Automating software installation, configuration
+and repeatable system administration tasks.
 
 ---
 
 ## 🔐 Security & Best Practices
 
-Security is considered throughout administration and automation work.
-
-Key practices include:
+Security considerations include:
 
 - Least privilege
 - SSH key authentication
 - Secure credential handling
-- Avoiding hard-coded credentials
+- No hard-coded passwords or secrets
 - `.gitignore` protection
-- Change tracking with Git
+- Git-based change tracking
 - Controlled automation
 - Separation of public and private resources
 
 ---
 
-## 🛠️ Technology Stack
+## 🧰 Technology Stack
 
-| Area | Technologies |
+| Category | Technologies |
 |---|---|
 | Linux | RHEL, Rocky Linux, AlmaLinux, CentOS Stream, Ubuntu, Debian |
 | Windows | Windows 10, Windows 11, Windows Server |
 | Scripting | Bash, PowerShell |
 | Automation | Ansible |
-| Version Control | Git |
-| Platform | GitHub |
+| Version Control | Git, GitHub |
 | Remote Administration | SSH |
-| Networking | TCP/IP, DNS, Ports, Firewall |
+| Networking | TCP/IP, DNS, Ports, Firewalls |
 | Storage | LVM, Filesystems, NFS, AutoFS |
+| Backup | rsync |
 
 ---
 
-## 📂 Repository Structure
-
-This repository is a **public showcase and documentation portfolio**.
+## 🔒 Source Code
 
 Actual administration scripts and private implementation details
 are maintained separately in a private repository.
 
-The public repository intentionally does not contain private
-source code, credentials, production configurations, or sensitive
-information.
+This public repository intentionally does not contain:
+
+- Private source code
+- Credentials
+- Passwords
+- Private keys
+- Production configurations
+- Sensitive infrastructure information
 
 ---
 
-## 🎯 Current Learning & Development
+## 🎯 Current Development
 
 Continuously developing practical skills in:
 
 - Enterprise Linux administration
 - Windows administration
-- Systems troubleshooting
 - Bash scripting
-- PowerShell automation
+- PowerShell
 - Ansible
 - Git and GitHub
 - Linux networking
 - Storage administration
+- Systems troubleshooting
 - Infrastructure automation
 - System security
 
@@ -174,16 +202,14 @@ Continuously developing practical skills in:
 
 ## 📌 Purpose
 
-This repository provides an overview of my systems engineering,
-administration, scripting, and automation capabilities.
-
-It is intended as a professional technical portfolio while keeping
-private source code and sensitive implementation details protected.
+This repository serves as a professional technical portfolio
+showcasing systems engineering, administration, scripting,
+automation and infrastructure capabilities.
 
 ---
 
 ## 👤 Author
 
-**Harish**
+**Harish Salla**
 
 [GitHub Profile](https://github.com/harish-hrsol)
